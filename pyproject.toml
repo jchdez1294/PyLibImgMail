@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "PyLibImgMail"
-version = "1.0.0"
+version = "1.0.1"
 description = "Biblioteca de prueba, para descarga/manejo de imágenes y envío de correos rápidos."
 authors = [
     {name="Jean Carlo Hernández Arguedas", email="jc.hdez.1294@gmail.com"},
