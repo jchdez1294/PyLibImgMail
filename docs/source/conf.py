@@ -13,7 +13,7 @@ sys.path.insert(0, os.path.abspath("../../src/"))
 project = 'PyLibImgMail'
 copyright = '2023, Jean Carlo Hernández Arguedas'
 author = 'Jean Carlo Hernández Arguedas'
-release = '1.0.0'
+release = '1.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
