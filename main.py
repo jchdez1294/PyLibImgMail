@@ -1,13 +1,11 @@
-from src.images import showImageFromURL
-from src.images import downloadImageFromUrl
-from src.images import grayScaleImage
+from src.images import showImageFromURL, downloadImageFromUrl, grayScaleImage
 
-from src.mymail import sendQuickMail
-from src.mymail import sendAttachEmail
+from src.mymail import sendQuickMail, sendAttachEmail
 
 def main():
     """
     Función principal, prueba de ejecución de módulo.
+    Para importar las funciones en su proyecto, quitar el src en los imports.
     Ejemplos de uso:
     """
     

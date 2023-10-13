@@ -65,4 +65,11 @@ Uso:
 sendQuickMail("Asunto", "Mensaje de prueba, cuerpo del correo", "destino@gmail.com", "/Users/{username}/Desktop/test/image-a13faa52-bae6-419c-92b6-9a59c20d9138.png")
 ```
 
+#### Como se importa?
+```
+from images import showImageFromURL, downloadImageFromUrl, grayScaleImage
+from mymail import sendQuickMail, sendAttachEmail
+
+```
+
 Nota: las rutas de archivos en documentación son tomadas de sistemas Mac, solamente reemplazar o usar las del sistema deseado en las funciones.
