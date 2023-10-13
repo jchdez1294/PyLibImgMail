@@ -16,7 +16,7 @@ showImageFromURL("https://www.python.org/static/community_logos/python-logo-mast
 
 Resultado:
 
-<img width="609" alt="Screenshot 2023-10-12 at 21 05 22" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/198f6ee3-3a36-4dfb-9114-f73ff51fe6bd">
+<img width="858" alt="Screenshot 2023-10-13 at 08 47 04" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/d56d0f13-40fa-45e5-8ae9-6c2a4d6e3c22">
 
 #### 2- Descarga una imagen y la guarda en la ruta indicada.
 
@@ -30,7 +30,7 @@ downloadImageFromUrl("https://www.python.org/static/community_logos/python-logo-
 
 Resultado:
 
-<img width="609" alt="Screenshot 2023-10-12 at 21 08 08" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/79fa72e8-4c74-477d-af7a-f48c4daa327c">
+<img width="717" alt="Screenshot 2023-10-13 at 08 48 04" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/9de1657c-6cf7-4e42-b94e-6ca510d4c5e1">
 
 #### 3- Convierte una imagen a blanco y negro.
 
@@ -44,7 +44,7 @@ grayScaleImage("/Users/{username}/Desktop/test/image-a13faa52-bae6-419c-92b6-9a5
  
 Resultado:
 
-<img width="609" alt="Screenshot 2023-10-12 at 21 11 33" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/075d3746-1612-4a4a-9581-b69416655a35">
+<img width="858" alt="Screenshot 2023-10-13 at 08 47 22" src="https://github.com/jchdez1294/PyLibImgMail/assets/55639913/ee8a65c0-ce6d-40c8-81dd-6986c1b8a918">
 
 #### 4- Envía un correo electrónico rápido al destino indicado.
 
