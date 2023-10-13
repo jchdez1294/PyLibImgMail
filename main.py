@@ -10,7 +10,7 @@ def main():
     Función principal, prueba de ejecución de módulo.
     Ejemplos de uso:
     """
-
+    
     img_status = showImageFromURL("https://logowik.com/content/uploads/images/python.jpg")
     if not img_status:
         print("No se pudo descargar la imagen.")
@@ -21,7 +21,6 @@ def main():
     img_gray_status = grayScaleImage("/Users/jeanca/Desktop/test/image-0bf45ca6-43cb-4e4b-8a03-523d6172d4fe.png")
     if not img_gray_status:
         print("No se pudo descargar la imagen.")
-
 
     quick_mail_status = sendQuickMail("Test1", "hola mundo", "jc.hdez.1294@gmail.com")
     if quick_mail_status:
